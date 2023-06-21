@@ -1,5 +1,5 @@
 {
-  "name": "@bonnasys/valhalla-eslint-configuration",
+  "name": "valhalla-eslint-configuration",
   "version": "1.0.0",
   "description": "Common lib to standardize frontend's projects",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "Gabriel Rodrigues",
   "private": false,
   "repository": {
-    "url": "bonnasys/valhalla-eslint-configuration"
+    "url": "valhalla-eslint-configuration"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
