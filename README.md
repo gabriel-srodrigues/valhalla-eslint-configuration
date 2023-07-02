@@ -8,8 +8,8 @@ npm i -D eslint valhalla-eslint-configuration
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": "@bonnasys/valhalla-eslint-configuration/react"
-  // "extends": "@bonnasys/valhalla-eslint-configuration-frontend/node"
+  "extends": "valhalla-eslint-configuration/react"
+  // "extends": "valhalla-eslint-configuration-frontend/node"
 }
 ```
 
