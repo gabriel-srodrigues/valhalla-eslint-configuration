@@ -1,6 +1,6 @@
 {
   "name": "valhalla-eslint-configuration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common lib to standardize frontend's projects",
   "main": "index.js",
   "license": "MIT",
