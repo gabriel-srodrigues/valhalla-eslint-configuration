@@ -2,7 +2,7 @@
 
 1. Install the dependencies
 ```
-npm i -D eslint @bonnasys/valhalla-eslint-configuration
+npm i -D eslint valhalla-eslint-configuration
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
